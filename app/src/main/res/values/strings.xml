@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">DesktopSite Bot</string>
+  <string name="service_desc">Otomatis toggle "Situs desktop" ketika Chrome Android aktif.</string>
+</resources>
